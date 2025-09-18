@@ -53,8 +53,10 @@ hay un icono para copiar al portapapeles).
 3.**Abre tu Terminal:** En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos
 (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd
 Documents/Projects.
+
 4. **Clona el repositorio:** Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL
 que copiaste:
+
 5. git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
 (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando
 descargará una copia completa de tu repositorio (incluyendo el README.md) en una nueva carpeta
@@ -83,6 +85,7 @@ para darle formato.
 • **.gitignore:** Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear
 (ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
 limpio.
+
 
 
 
