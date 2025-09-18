@@ -49,6 +49,7 @@ Ahora, necesitamos una copia de este repositorio en tu computadora para poder tr
 1. **En la página de tu repositorio en GitHub:** Busca el botón verde "Code" y haz clic en él.
 2. **Copia la URL HTTPS:** Verás una URL. Asegúrate de que diga "HTTPS" y cópiala (generalmente
 hay un icono para copiar al portapapeles).
+
 3.**Abre tu Terminal:** En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos
 (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd
 Documents/Projects.
@@ -75,6 +76,7 @@ para darle formato.
 • **.gitignore:** Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear
 (ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
 limpio.
+
 
 
 
