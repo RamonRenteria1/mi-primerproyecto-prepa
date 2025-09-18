@@ -52,7 +52,7 @@ hay un icono para copiar al portapapeles).
 3.**Abre tu Terminal:** En tu computadora, navega a la carpeta donde te gustaría guardar tus proyectos
 (ej. Documentos/Proyectos). Puedes usar el comando cd (change directory), por ejemplo: cd
 Documents/Projects.
-4. Clona el repositorio: Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL
+4. **Clona el repositorio:** Una vez en la carpeta deseada, ejecuta el siguiente comando, pegando la URL
 que copiaste:
 5. git clone [PEGA_AQUÍ_LA_URL_HTTPS_DE_TU_REPOSITORIO]
 (Ejemplo: git clone https://github.com/tu-usuario/mi-primer-proyecto-prepa.git). Este comando
@@ -61,7 +61,7 @@ con el nombre de tu repositorio.
 6.** Entra a la carpeta del proyecto:**
  7. cd mi-primer-proyecto-prepa
 Ahora estás dentro de la carpeta local de tu repositorio.
-### Conceptos clave que acabas de usar:
+## Conceptos clave que acabas de usar:
 •**Repositorio (repo)**: Donde se guarda tu proyecto (en tu computadora local y en GitHub).
 • **Rama (branch)**: En esta actividad, usamos la rama main, que es la línea principal de desarrollo de tu
 proyecto. En proyectos más grandes, se usan múltiples ramas para trabajar en paralelo.
@@ -75,6 +75,7 @@ para darle formato.
 • **.gitignore:** Un archivo especial donde listas archivos o carpetas que Git debe ignorar y no rastrear
 (ej. archivos de configuración locales, archivos temporales). Esto ayuda a mantener tu repositorio
 limpio.
+
 
 
 
